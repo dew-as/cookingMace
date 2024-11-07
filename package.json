@@ -1,0 +1,43 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "course-for react js developer",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dew-as/Namaste-React.git"
+  },
+  "keywords": [
+    "react",
+    "parcel"
+  ],
+  "author": "Aswindev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dew-as/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/dew-as/Namaste-React#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.38",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.2",
+    "antd": "^5.16.0",
+    "firebase": "^10.14.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.22.1"
+  },
+  "browserlist": [
+    "last 10 versions"
+  ]
+}
